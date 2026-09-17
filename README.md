@@ -1,108 +1,107 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sailendra Shrestha</h1>
+<h3 align="center">Designer & Developer | Building at the intersection of code and creativity</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8E2DE2&height=200&section=header&text=Sailendra%20Shrestha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Designer%20%26%20Developer&descAlignY=55&descSize=20" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Next.js+Enthusiast;UI%2FUX+focused+Designer;Currently+building+Nagar+Bazar" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+Prisma+Enthusiast;UI%2FUX+Focused+Designer+%F0%9F%8E%A8;Currently+Building+Nagar+Bazar+%F0%9F%9B%92" alt="Typing SVG" />
+---
 
-<br/>
+### 🚀 About Me
 
-<a href="https://www.linkedin.com/in/sailendrashrestha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/sailennn_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:sailendrashrestha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=SailenStha10&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" />
-
-</div>
-
-<br/>
-
-## 🧭 About Me
-
-- 🎨 Designer + Developer who loves turning ideas into clean, functional interfaces
-- 🛒 Currently building **Nagar Bazar** — an integrated **E‑Commerce + E‑Governance** platform
-- 🌱 Deep-diving into the MERN & Next.js ecosystem, with Prisma + Neon.db for the backend
-- 🧩 Also comfortable in PHP / MySQL / XAMPP based systems
-- 💬 Ask me about React, Next.js, Prisma, or full-stack system design
+- 🎨 I design and build full-stack web applications with a focus on clean UI and solid architecture
+- 🛒 Currently working on **Nagar Bazar** — an integrated **E-Commerce + E-Governance** platform
+- 🌱 Always exploring modern tools around the JavaScript/TypeScript ecosystem
+- 💬 Ask me about MERN, Next.js, Prisma, or PHP-based systems
 - 📫 Reach me at **sailendrashrestha@gmail.com**
 
-<br/>
+---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+### 🛠️ Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,php,js&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma,postgres&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=xampp,git,github,vscode,figma&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-</div>
+---
 
-<br/>
+### 🔨 What I Work With
 
-## 🏗️ Currently Building
+```text
+Frontend          : HTML, CSS, React, Next.js
+Backend           : Node.js, Express.js, PHP
+Database          : MongoDB, MySQL, Neon (PostgreSQL), Prisma ORM
+Languages         : C, C++, C#, JavaScript, PHP
+Dev Environment   : XAMPP, VS Code, Git & GitHub
+```
 
-<div align="center">
+---
 
-<table>
-<tr>
-<td width="100%">
+### 🏗️ Currently Building
 
-### 🛍️ Nagar Bazar
-An integrated **E‑Commerce & E‑Governance** platform bringing local commerce and government services together on a single system.
+**Nagar Bazar** — An integrated **E-Commerce & E-Governance** system that brings local commerce and government services together on a single platform.
 
-`Next.js` `Prisma` `Neon.db` `MERN`
+---
 
-</td>
-</tr>
-</table>
+### 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SailenStha10&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SailenStha10&layout=compact&hide_border=true" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SailenStha10&hide_border=true" alt="GitHub Streak" />
+</p>
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+### 🤝 Connect With Me
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SailenStha10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=2F81F7&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SailenStha10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/sailendrashrestha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sailendrashrestha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SailenStha10&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=2F81F7&currStreakLabel=8E2DE2" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SailenStha10&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=2F81F7&point=ffffff" width="100%" />
-
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sailendrashrestha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/sailennn_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:sailendrashrestha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2F81F7&height=120&section=footer" width="100%" />
+---
 
 <p align="center"><i>Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
