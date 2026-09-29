@@ -2,7 +2,7 @@
 <h3 align="center">Designer & Developer | Building at the intersection of code and creativity</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Next.js+Enthusiast;UI%2FUX+focused+Designer;Currently+building+Nagar+Bazar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Next.js+Developer;UI%2FUX+focused+Designer;Currently+building+Nagar+Bazar" alt="Typing SVG" />
 </p>
 
 ---
